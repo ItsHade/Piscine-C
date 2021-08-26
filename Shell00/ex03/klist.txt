@@ -1,0 +1,5 @@
+Credentials cache: API:838057CB-43E2-42FF-B16A-F06E43A02C23
+        Principal: mburnet@42.FR
+
+  Issued                Expires               Principal
+Aug  3 14:45:10 2021  Aug 10 14:45:10 2021  krbtgt/42.FR@42.FR
